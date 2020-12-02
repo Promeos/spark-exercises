@@ -5,3 +5,5 @@ env.py
 .vscode/
 *.csv
 *.xlsx
+*lesson_notes.ipynb
+wrangle.py
